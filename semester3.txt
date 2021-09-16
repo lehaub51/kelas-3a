@@ -5,6 +5,7 @@ Rencana belajar semester 3
 - Pemodelan Sistem Berbasis Objek
 - Mempelajari Framework CI
 - Mempelajari GitHub
+- Sistem Operasi
 Membuat Project Pustaka Booking :
 - Fitur Login 
 - Fitur Daftar Anggota
@@ -15,3 +16,4 @@ Membuat Project Pustaka Booking :
 - Fitur Laporan Denda
 - Fitur Peminjaman Jurnal
 - Fitur Data Jurnal
+- Fitur Pembelian Buku
