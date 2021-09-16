@@ -6,6 +6,8 @@ Rencana belajar semester 3
 - Statistika
 - Akuntansi Dasar Praktik 
 - Pemodelan Sistem Berbasis Objek
+- Mempelajari Framework CI
+- Mempelajari GitHub
 Membuat Project Pustaka Booking :
 - Fitur Login 
 - Fitur Daftar Anggota
@@ -13,5 +15,7 @@ Membuat Project Pustaka Booking :
 - Fitur Peminjaman Buku 
 - Fitur Pengembalian Buku 
 - Fitur Laporan Denda
-- Fitur Peminjaman Jurnal 
+- Fitur Peminjaman Jurnal
+- Fitur Pembelian Buku
 - Fitur QnA
+
