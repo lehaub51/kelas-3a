@@ -1,19 +1,21 @@
 Rencana belajar semester 3
+- Character Building
+- Sistem Informasi Manajemen
+- Sistem Operasi
 - Web Programming II
 - Statistika
 - Akuntansi Dasar Praktik 
 - Pemodelan Sistem Berbasis Objek
 - Mempelajari Framework CI
 - Mempelajari GitHub
-- Sistem Operasi
 Membuat Project Pustaka Booking :
 - Fitur Login 
 - Fitur Daftar Anggota
-- Fitur Daftar Buku
+- Fitur Daftar Buku dan Jurnal
 - Fitur Peminjaman Buku 
 - Fitur Pengembalian Buku 
-- Fitur Laporan Pengembalian 
 - Fitur Laporan Denda
 - Fitur Peminjaman Jurnal
-- Fitur Data Jurnal
 - Fitur Pembelian Buku
+- Fitur QnA
+
