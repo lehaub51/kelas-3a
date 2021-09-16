@@ -13,3 +13,5 @@ Membuat Project Pustaka Booking :
 - Fitur Pengembalian Buku 
 - Fitur Laporan Pengembalian 
 - Fitur Laporan Denda
+- Fitur Peminjaman Jurnal
+- Fitur Data Jurnal
